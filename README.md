@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un desarrollador web back-end con experiencia en la creación de aplicaciones robustas y funcionales.
+¡Hola! Soy un desarrollador web back-end con experiencia en la creación de aplicaciones funcionales.
 
 
 ## 🌐 Socials:
